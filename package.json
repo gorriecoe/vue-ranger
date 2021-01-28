@@ -1,0 +1,41 @@
+{
+  "name": "vue-ranger",
+  "version": "1.0.0",
+  "description": "A very simple lightweight vuejs component to provide overlays.",
+  "author": "Gorrie Coe <gorriecoe@gmail.com>",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "lint-fix": "eslint **/*.vue --fix"
+  },
+  "main": "./src",
+  "dependencies": {
+    "v-click-outside": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "^4.5.9",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "eslint": "^7.12.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^7.1.0"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.4"
+  },
+  "bugs": {
+    "url": "https://github.com/gorriecoe/vue-ranger/issues"
+  },
+  "homepage": "https://github.com/gorriecoe/vue-ranger",
+  "keywords": [
+    "vuejs",
+    "component",
+    "overlay"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorriecoe/vue-ranger.git"
+  }
+}
