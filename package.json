@@ -1,7 +1,7 @@
 {
   "name": "vue-ranger",
   "version": "1.0.0",
-  "description": "A very simple lightweight vuejs component to provide overlays.",
+  "description": "A super light weight vuejs multi-value range/slider component.",
   "author": "Gorrie Coe <gorriecoe@gmail.com>",
   "scripts": {
     "lint": "vue-cli-service lint",
